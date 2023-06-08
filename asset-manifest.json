@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/http//klausalutaya.github.io/portfolio/static/css/main.b6e3bb22.css",
-    "main.js": "/http//klausalutaya.github.io/portfolio/static/js/main.e017afd1.js",
-    "static/js/787.b701888c.chunk.js": "/http//klausalutaya.github.io/portfolio/static/js/787.b701888c.chunk.js",
-    "static/media/emptywall112.png": "/http//klausalutaya.github.io/portfolio/static/media/emptywall112.ca5d4739c5181c9fa89b.png",
-    "static/media/emptywall110.png": "/http//klausalutaya.github.io/portfolio/static/media/emptywall110.f5684b8074fee8f4421b.png",
-    "static/media/emptywall111.png": "/http//klausalutaya.github.io/portfolio/static/media/emptywall111.8b2a851a2dca102ce068.png",
-    "static/media/about.jpeg": "/http//klausalutaya.github.io/portfolio/static/media/about.b78b03dcd4666db29d1e.jpeg",
-    "static/media/profile.jpeg": "/http//klausalutaya.github.io/portfolio/static/media/profile.b78b03dcd4666db29d1e.jpeg",
-    "static/media/Klaus-Cv.pdf": "/http//klausalutaya.github.io/portfolio/static/media/Klaus-Cv.1db77b83e32738c5960f.pdf",
-    "index.html": "/http//klausalutaya.github.io/portfolio/index.html",
-    "main.b6e3bb22.css.map": "/http//klausalutaya.github.io/portfolio/static/css/main.b6e3bb22.css.map",
-    "main.e017afd1.js.map": "/http//klausalutaya.github.io/portfolio/static/js/main.e017afd1.js.map",
-    "787.b701888c.chunk.js.map": "/http//klausalutaya.github.io/portfolio/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.219c1307.css",
+    "main.js": "/portfolio/static/js/main.4c540322.js",
+    "static/js/787.b701888c.chunk.js": "/portfolio/static/js/787.b701888c.chunk.js",
+    "static/media/emptywall112.png": "/portfolio/static/media/emptywall112.ca5d4739c5181c9fa89b.png",
+    "static/media/emptywall110.png": "/portfolio/static/media/emptywall110.f5684b8074fee8f4421b.png",
+    "static/media/emptywall111.png": "/portfolio/static/media/emptywall111.8b2a851a2dca102ce068.png",
+    "static/media/about.jpeg": "/portfolio/static/media/about.b78b03dcd4666db29d1e.jpeg",
+    "static/media/profile.jpeg": "/portfolio/static/media/profile.b78b03dcd4666db29d1e.jpeg",
+    "static/media/Klaus-Cv.pdf": "/portfolio/static/media/Klaus-Cv.1db77b83e32738c5960f.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.219c1307.css.map": "/portfolio/static/css/main.219c1307.css.map",
+    "main.4c540322.js.map": "/portfolio/static/js/main.4c540322.js.map",
+    "787.b701888c.chunk.js.map": "/portfolio/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6e3bb22.css",
-    "static/js/main.e017afd1.js"
+    "static/css/main.219c1307.css",
+    "static/js/main.4c540322.js"
   ]
 }
